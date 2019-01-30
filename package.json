@@ -1,0 +1,27 @@
+{
+  "name": "net-lex",
+  "version": "1.0.0",
+  "description": "Wordnet powered lexicon",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/net-lex.git"
+  },
+  "keywords": [
+    "lexicon",
+    "lemme-lex",
+    "nlp",
+    "ai",
+    "training",
+    "data"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/net-lex/issues"
+  },
+  "homepage": "https://github.com/Truemedia/net-lex#readme"
+}
